@@ -1,0 +1,12 @@
+body { background: #222; color: #ededed; }
+header { background: #555; font-size: 16px; text-align: center; text-shadow: 0 1px 0 rgba(0,0,0,.15); margin-bottom: 15px; }
+ul { list-style: none; }
+
+.movie-preview-list {}
+.movie-preview { padding-top: 5px; padding-bottom: 5px; }
+
+
+.movie-preview-list .movie-preview img { max-width: 100%; }
+/*.movie .movie-preview-list .movie-preview img { max-width: 140px; }*/
+
+.hidden { display: none; }
