@@ -13,7 +13,7 @@ define([
 
     var _config = {
         debug: true
-        ,pageCache: 5
+        ,pageCache: 4
         ,pages: {
             'news': 'news'
         }
